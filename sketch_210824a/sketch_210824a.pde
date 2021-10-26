@@ -1,34 +1,12 @@
-println("Hello Wolrd");
-println("Hello World");
-char a=83;
-char b=101;
-char c=98;
-char d=97;
-char e=115;
-char f=116;
-char g=105;
-char h=97;
-char i=110;
-println(a,b,c,d,e,f,g,h,i);
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
-println("HEE HEE");
+void setup(){
+ 
+  
+}
+void draw(){
+
+  println(testint(37500));
+
+}
+int testint(int x){
+  return x+1;
+}
